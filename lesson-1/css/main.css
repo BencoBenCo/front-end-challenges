@@ -1,8 +1,21 @@
-/**
+/* /**
 // ==========================================================================
 //  MAIN CSS FILE [ HEADER ]
 // ==========================================================================
 **/
 
 
-/* CSS FILE COMMENTS [ INLINE ] */
+/* CSS FILE COMMENTS [ INLINE ] *
+
+image-size */
+
+body {
+    color: red;
+    height: 100vh;
+
+}
+
+img {
+    width: 200px;
+    height: 230px;
+}
